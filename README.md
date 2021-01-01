@@ -1,2 +1,2 @@
 # Manteezs.github.io
-Portfolio Website
+Portfolio website
