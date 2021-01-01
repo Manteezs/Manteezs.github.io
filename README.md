@@ -1,4 +1,4 @@
 # 📜  Portfolio
 Portfolio website! 
 <br><br>
-Technologies used: HTML, CSS, JS
+Technologies used: HTML, CSS, Javascript
