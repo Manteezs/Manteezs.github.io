@@ -1,4 +1,4 @@
 # Manteezs.github.io
-Portfolio website!
+Portfolio website! 
 <br><br>
 Technologies used: HTML, CSS, JS
